@@ -1,0 +1,7 @@
+Transaction ID,Date,Customer ID,Gender,Age,Product Category,Quantity,Price per Unit,Total Amount
+1,2023-11-24,CUST001,Male,34,Beauty,3,50,150
+2,2023-11-25,CUST002,Female,28,Electronics,1,500,500
+3,2023-11-26,CUST003,Male,40,Clothing,2,300,600
+4,2023-11-27,CUST004,Female,31,Beauty,5,45,225
+5,2023-12-01,CUST005,Male,25,Electronics,2,450,900
+6,2023-12-02,CUST006,Female,29,Clothing,4,250,1000
